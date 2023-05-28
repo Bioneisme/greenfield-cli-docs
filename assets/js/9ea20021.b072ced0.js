@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[648],{6766:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/greenfield-cli-docs/blog/tags/facebook","allTagsPath":"/greenfield-cli-docs/blog/tags","count":1}')}}]);

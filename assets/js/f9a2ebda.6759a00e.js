@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4604],{887:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/greenfield-cli-docs/blog/tags/docusaurus","allTagsPath":"/greenfield-cli-docs/blog/tags","count":4}')}}]);
