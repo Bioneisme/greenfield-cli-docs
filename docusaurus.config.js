@@ -11,16 +11,16 @@ const config = {
   favicon: 'https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://greenfield.bnbchain.org/ru-RU&size=16',
 
   // Set the production url of your site here
-  url: 'https://nurlan1507.github.io',
+  url: 'https://bioneisme.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/cli_doc/',
+  baseUrl: '/greenfield-cli-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'nurlan1507', // Usually your GitHub org/user name.
-  projectName: 'cli_doc', // Usually your repo name.
-  deploymentBranch:"gh-pages",
+  organizationName: 'bioneisme', // Usually your GitHub org/user name.
+  projectName: 'greenfield-cli-docs', // Usually your repo name.
+  deploymentBranch:"main",
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   
